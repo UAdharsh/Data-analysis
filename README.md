@@ -1,6 +1,4 @@
-Here’s a professional README file for your data analysis project collection:
 
----
 
 # **Data Analysis Project Collection** 📊  
 
